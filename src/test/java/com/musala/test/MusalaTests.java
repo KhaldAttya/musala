@@ -1,4 +1,4 @@
-package com.musala.test.customers;
+package com.musala.test;
 import com.musala.models.ContactUsForm;
 import com.musala.models.JobApplicationForm;
 import com.musala.pages.ContactUs;
